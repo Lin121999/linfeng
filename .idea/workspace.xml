@@ -6,53 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6517e2-dc11-4699-b7c1-523828b7f893" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/META-INF/spring-mvc.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/demo/lfcontroller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/demo/lfservice/ITestXService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/demo/lfservice/impl/TestXServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/lfspring/annotation/LFAutowired.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/lfspring/annotation/LFController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/lfspring/annotation/LFRequestMapping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/lfspring/annotation/LFService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/classes/com/linfeng/lfspring/servlet/LFDispatchServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/demo/lfcontroller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/demo/lfservice/ITestXService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/demo/lfservice/impl/TestXServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/lfspring/annotation/LFAutowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/lfspring/annotation/LFController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/lfspring/annotation/LFRequestMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/lfspring/annotation/LFService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/linfeng/lfspring/servlet/LFDispatchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-mvc.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/demo/lfcontroller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/demo/lfservice/ITestXService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/demo/lfservice/impl/TestXServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/lfspring/annotation/LFAutowired.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/lfspring/annotation/LFController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/lfspring/annotation/LFRequestMapping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/lfspring/annotation/LFService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/linfeng/lfspring/servlet/LFDispatchServlet.class" afterDir="false" />
-    </list>
+    <list default="true" id="bc6517e2-dc11-4699-b7c1-523828b7f893" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -400,12 +354,24 @@
       <workItem from="1594353752422" duration="403000" />
       <workItem from="1594354223698" duration="1134000" />
       <workItem from="1594355960178" duration="58000" />
-      <workItem from="1594357016174" duration="5383000" />
+      <workItem from="1594357016174" duration="5626000" />
     </task>
+    <task id="LOCAL-00001" summary="spring-mvc">
+      <created>1594362753912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594362753912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-mvc" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-mvc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="298" y="146" key="#Project_Structure" timestamp="1594357566241">
@@ -457,10 +423,10 @@
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state x="455" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.793@0.23.1440.793" timestamp="1594357486341" />
-    <state x="338" y="23" width="833" height="793" key="CommitChangelistDialog2" timestamp="1594362678385">
+    <state x="338" y="23" width="833" height="793" key="CommitChangelistDialog2" timestamp="1594362753657">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state x="338" y="23" width="833" height="793" key="CommitChangelistDialog2/0.23.1440.793@0.23.1440.793" timestamp="1594362678385" />
+    <state x="338" y="23" width="833" height="793" key="CommitChangelistDialog2/0.23.1440.793@0.23.1440.793" timestamp="1594362753657" />
     <state width="958" height="214" key="GridCell.Tab.0.bottom" timestamp="1594362678437">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
