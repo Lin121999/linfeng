@@ -1,0 +1,1 @@
+package com.linfeng.demo.lfservice.impl;import com.linfeng.demo.lfservice.ITestXService;import com.linfeng.lfspring.annotation.LFService;@LFServicepublic class TestXServiceImpl implements ITestXService {    @Override    public String listClassName() {        return "The test is success!";    }}

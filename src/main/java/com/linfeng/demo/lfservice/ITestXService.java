@@ -1,0 +1,1 @@
+package com.linfeng.demo.lfservice;public interface ITestXService {    String listClassName();}
