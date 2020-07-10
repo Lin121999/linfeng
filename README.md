@@ -2,7 +2,7 @@
 这里只导入了servlet一个包实现MVC
 因为application.xml文件加载起来太复杂，这里只采用了application.properties文件
 
-跑项目的时候用idea需要需要设置facets，Artifacts以及Tomcat。
+项目如果出现404的时候用idea需要设置facets，Artifacts以及Tomcat。
 这里最主要的是类是LFDispactServlet里面基本上融合了大部分SpringMvC的操作
 在初始化阶段需要进行如下操作
 doLoadConfig是加载了配置文件，为了读出里面需要扫描包的路径
