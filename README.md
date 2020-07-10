@@ -1,0 +1,17 @@
+这是一个简单版的SpringMvc
+因为application.xml文件加载起来太复杂，这里只采用了application.properties文件
+
+这里最主要的是类是LFDispactServlet里面基本上融合了大部分SpringMvC的操作
+在初始化阶段需要进行如下操作
+doLoadConfig是加载了配置文件，为了读出里面需要扫描包的路径
+doScanner 扫描包 获得.class文件存入的类名存入classNameList中
+doInstance初始化ioc容器，并将含有注解的类利用反射实例化存入ioc容器中
+doAutowired实现依赖注入
+initHandlerMapping完成SpringMVC的操作。
+
+测试输入http://localhost:8080/test/query?username=linfeng看是否成功
+
+自己也不会写，就跟着模仿学的
+原创作者哔哩哔哩视频地址：https://www.bilibili.com/video/BV1bT4y1J7nd?from=search&seid=16968794552722837921
+
+
